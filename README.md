@@ -5,4 +5,3 @@ This page is still under construction and will be finished soon. Currently missi
 
 - Bit lords
 - CaffeineSpeakeasy
-- Sneaky reviews
